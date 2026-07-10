@@ -1,0 +1,4 @@
+gitadd .:
+data/inventory.db
+__pycache__/
+*.pkl
