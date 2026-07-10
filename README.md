@@ -181,11 +181,11 @@ streamlit run app.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Rahul Chandrakanti**  
 Data Scientist  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+📧 Email: rahulsbook11@gmail.com 
+🔗 [LinkedIn]([https://www.linkedin.com/in/ayushi-mishra-30813b174/](https://www.linkedin.com/in/rahul-chandrakanti-ab80433a4?utm_source=share_via&utm_content=profile&utm_medium=member_ios))  
+
 
 
 
